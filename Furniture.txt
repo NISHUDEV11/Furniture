@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am Chair has 4 legs
+=======
+I am Chair has 5 legs
+>>>>>>> 9bd0c5bf79f9a124d5746dcef0f82569fee3bb7c
